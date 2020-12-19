@@ -2772,7 +2772,7 @@ input[switch="dark"]:checked + label {
   
 .coins_container .card{
 	margin-bottom: 1px;
-	cursor: pointer;
+	cursor: default;
 }
 
 .card-body{
